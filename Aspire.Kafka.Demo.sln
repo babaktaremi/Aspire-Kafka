@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Kafka.Api", "Aspire.Kafka.Api\Aspire.Kafka.Api.csproj", "{4D578CBD-53FB-4153-8369-798FF82B8B61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Kafka.Hosting", "Aspire.Kafka.Hosting\Aspire.Kafka.Hosting.csproj", "{3F9010CD-591B-4F6F-929A-393162FE8592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspire.Kafka.ServiceDefaults", "Aspire.Kafka.ServiceDefaults\Aspire.Kafka.ServiceDefaults.csproj", "{03D8657D-6102-4DB4-8386-130925DD9689}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D578CBD-53FB-4153-8369-798FF82B8B61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D578CBD-53FB-4153-8369-798FF82B8B61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D578CBD-53FB-4153-8369-798FF82B8B61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D578CBD-53FB-4153-8369-798FF82B8B61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9010CD-591B-4F6F-929A-393162FE8592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9010CD-591B-4F6F-929A-393162FE8592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9010CD-591B-4F6F-929A-393162FE8592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9010CD-591B-4F6F-929A-393162FE8592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03D8657D-6102-4DB4-8386-130925DD9689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03D8657D-6102-4DB4-8386-130925DD9689}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03D8657D-6102-4DB4-8386-130925DD9689}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03D8657D-6102-4DB4-8386-130925DD9689}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
